@@ -1,0 +1,8 @@
+{
+    "name": "Turkish Test Repo",
+    "description": "Türkçe Film ve Dizi Eklentileri",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/dydn18/turkish_test/builds/plugins.json"
+    ]
+}
